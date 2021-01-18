@@ -20,4 +20,6 @@
 
 - [GitHub](https://github.com/Teju2404)
 
-- [LinkedIn](https://www.linkedin.com/in/tejaswi-reddy-kandula-800468128/)
+- [LinkedIn](https://www.linkedin.com/in/tejaswi-reddy-kandula-800468128/)  
+
+![](https://github.com/Teju2404/big-data-developer/blob/main/Tejaswi.jpg)
