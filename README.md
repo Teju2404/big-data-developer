@@ -1,7 +1,7 @@
 # Tejaswi Reddy Kandula
 
 ## Links
--[shell-data-processing](https://github.com/Teju2404/shell-data-processing)
+- [shell-data-processing](https://github.com/Teju2404/shell-data-processing)
 
 ## Current
 - I am in my final semester,Masters of Applied Computer Science.
